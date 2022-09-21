@@ -25,9 +25,6 @@
    cd LABPP_2022_06
    git branch NIM_ANDA
    git checkout NIM_ANDA
-   git config user.name USERNAME_GITHUB
-   git config user.email EMAIL_GITHUB
-
    ```
 
 4. Setelah anda pindah ke **branch** yang telah anda buat, buat sebuah folder dengan nama **NIM** anda dan masuk ke folder tersebut.
