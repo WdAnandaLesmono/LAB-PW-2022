@@ -48,10 +48,9 @@
 8. Setiap membuat _file_ atau melakukan perubahan, lakukan proses **commit** dengan pesan yang deskriptif
 
    ```sh
-   git add . #perintah ini memilih seluruh file sekaligus
+   git add . #perintah ini menambahkan seluruh file sekaligus
    # atau
    git add "nama file yang ingin di tambahkan" #perintah ini memilih file tertentu
-   atau gunakan git add . untuk menambahkan semua file
    git commit -m "pesan mengenai penambahan atau perubahan apa yang anda lakukan"
    
    ```
