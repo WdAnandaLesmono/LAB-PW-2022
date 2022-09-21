@@ -51,7 +51,8 @@
    ```sh
    git add . #perintah ini memilih seluruh file sekaligus
    # atau
-   git add "Praktikum n/NIM/FilePythonYangBerubahAtauDitambahkan.py" #perintah ini memilih file tertentu
+   git add "nama file yang ingin di tambahkan" #perintah ini memilih file tertentu
+   atau gunakan git add . untuk menambahkan semua file
    git commit -m "pesan mengenai penambahan atau perubahan apa yang anda lakukan"
    
    ```
@@ -82,7 +83,7 @@
    #3. Scroll ke bagian bawah dan pilih menu Dveloper settings
    #4. Pilih Prsonal access tokens
    #5. Pilih Generate new tokes
-   #6. Tuliskan note untuk token anda (ex: Token for LABPP_2022_13)
+   #6. Tuliskan note untuk token anda 
    #7. Atur waktu expiration token anda (sesuai keinginan anda)
    #8. Pada select scope, ceklis box repo
    #9. Klik generate new token
@@ -99,6 +100,7 @@
 ## Hal-hal yang harus diperhatikan:
 
 - [x] Cara mengumpulkan tugas sesuai dengan aturan diatas.
+- [x] _**Setiap Orang mempunya folder Nim.
 - [x] _**Satu Praktikum, Satu Folder**_.
 - [x] _**Satu Soal, Satu Class**_.
 - [x] _**Program Berjalan dengan Baik dan Benar Berdasarkan Ketentuan Tugas**_.
