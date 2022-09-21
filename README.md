@@ -1,7 +1,6 @@
 # Repositori Pengumpula Tugas Praktikum Pemrograman Web 2022
 
-# Link Video Cara Upload Tugas d Repos Ini :
-# https://youtu.be/bGYV6T2rodc
+# Link Video Cara Upload Tugas d Repos Ini : https://youtu.be/bGYV6T2rodc
 
 ## Requirements:
 1. Buat akun GitHub (https://github.com/)
